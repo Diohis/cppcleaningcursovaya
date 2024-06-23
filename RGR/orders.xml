@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<catalog>
+	<offers>
+		<offer>
+			<name>dsa</name>
+			<surname>asd</surname>
+			<phone>321</phone>
+			<s>321312.000000</s>
+			<object>Офис</object>
+			<clean>Уборка после ремонта</clean>
+		</offer>
+		<offer>
+			<name>Дима</name>
+			<surname>Кулаков</surname>
+			<phone>912321</phone>
+			<s>36.000000</s>
+			<object>Квартира</object>
+			<clean>Разовая</clean>
+		</offer>
+	</offers>
+</catalog>
